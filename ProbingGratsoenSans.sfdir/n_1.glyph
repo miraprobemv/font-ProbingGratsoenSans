@@ -1,0 +1,14 @@
+StartChar: n_1
+Encoding: 65554 -1 40
+Width: 650
+Flags: W
+HStem: -107 56<245.197 409.253 474.27 545> 138 57<37 613> 279 57<405.441 459.89>
+VStem: 122 64<12.0227 255.484> 167 67<270.6 332> 329 62<35.792 269.895> 474 62<33.3497 269.653>
+LayerCount: 2
+Fore
+Refer: 6 110 N 1 0 0 1 0 0 2
+Substitution2: "n-right-1" n.low_hidden2
+Substitution2: "low-1" n_1.low
+Substitution2: "high-1" n_1.high
+Ligature2: "required-ligature-1" n uni2081
+EndChar

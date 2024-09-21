@@ -1,0 +1,12 @@
+StartChar: dr_1
+Encoding: 65546 -1 31
+Width: 620
+Flags: W
+HStem: 231 59<159 569> 352 60<333.109 458.195> 607 91<433.509 527> 644 54<159 428>
+VStem: 96 63<211 231 290 644> 258 62<424.57 532.015> 459 63<-123 412>
+LayerCount: 2
+Fore
+Refer: 30 638 N 1 0 0 1 0 0 2
+LCarets2: 1 310
+Ligature2: "required-ligature-1" uni027E uni2081
+EndChar

@@ -1,0 +1,12 @@
+StartChar: z_1
+Encoding: 65561 -1 49
+Width: 710
+VWidth: 1024
+Flags: W
+HStem: -123 57<332.742 492.877> 316 20G<246 469 563 626> 669 57<228.423 386.517>
+VStem: 96 63<-123 722> 226 63<-21.437 154.12> 423 63<465.316 630.379> 563 63<-119 336>
+LayerCount: 2
+Fore
+Refer: 52 122 N 1 0 0 1 0 0 2
+Ligature2: "required-ligature-1" z uni2081
+EndChar

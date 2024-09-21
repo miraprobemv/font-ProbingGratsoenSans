@@ -1,0 +1,13 @@
+StartChar: d_1
+Encoding: 65540 -1 18
+Width: 570
+VWidth: 1024
+Flags: W
+HStem: 669 57<228.274 382.544>
+VStem: 96 63<-123 722> 423 63<467 621.743>
+LayerCount: 2
+Fore
+Refer: 17 100 N 1 0 0 1 0 0 2
+LCarets2: 1 285
+Ligature2: "required-ligature-1" d uni2081
+EndChar

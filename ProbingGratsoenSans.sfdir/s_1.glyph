@@ -1,0 +1,12 @@
+StartChar: s_1
+Encoding: 65551 -1 37
+Width: 590
+Flags: W
+HStem: -126.5 57<242.904 395.642> 359 56<161.729 314.291> 650 57<168.047 280.625>
+VStem: 62 62<454.619 605.548> 136.5 63<-26.8808 135.761> 450 63<627.042 722> 483 10<57.8102 67>
+LayerCount: 2
+Fore
+Refer: 36 115 N 1 0 0 1 0 0 2
+LCarets2: 1 295
+Ligature2: "required-ligature-1" s uni2081
+EndChar

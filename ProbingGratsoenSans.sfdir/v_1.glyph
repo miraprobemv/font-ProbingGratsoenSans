@@ -1,0 +1,11 @@
+StartChar: v_1
+Encoding: 65558 -1 45
+Width: 640
+Flags: W
+HStem: -127 58<139.034 257.532> 669 57<239.74 369.722>
+VStem: 66 64<-59.8455 45.5417> 106 63<388 722> 130 39<374 384> 322 64<0.199877 193.109> 388 63<546.534 650.632> 498 64<-123 318>
+LayerCount: 2
+Fore
+Refer: 44 118 N 1 0 0 1 0 0 2
+Ligature2: "required-ligature-1" v uni2081
+EndChar

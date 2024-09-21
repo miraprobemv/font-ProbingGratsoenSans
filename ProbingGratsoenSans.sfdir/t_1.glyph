@@ -1,0 +1,12 @@
+StartChar: t_1
+Encoding: 65556 -1 42
+Width: 660
+VWidth: 0
+Flags: W
+HStem: 233 57<351.563 464.426> 387 60<55 216.32> 644 54<348 510>
+VStem: 82 63<-123 286> 285 63<-123 428 510 641> 523 63<-124 173.918>
+LayerCount: 2
+Fore
+Refer: 8 116 N 1 0 0 1 0 0 2
+Ligature2: "required-ligature-1" t uni2081
+EndChar

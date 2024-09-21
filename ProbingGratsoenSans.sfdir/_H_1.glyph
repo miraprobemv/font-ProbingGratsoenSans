@@ -1,0 +1,14 @@
+StartChar: H_1
+Encoding: 65537 -1 14
+Width: 550
+VWidth: 1024
+Flags: W
+HStem: -127 58<110.246 331.297> -99 68<50 127.323> 345 57<114 246.943> 633 63<79 144.69> 669 57<126.918 317.945>
+VStem: 363 63<486.957 625.583> 432 63<36.6932 247.869>
+LayerCount: 2
+Fore
+Refer: 5 72 N 1 0 0 1 0 0 2
+Substitution2: "low-1" H_1.low
+LCarets2: 1 275
+Ligature2: "required-ligature-1" H uni2081
+EndChar

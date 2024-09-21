@@ -1,0 +1,15 @@
+StartChar: gr_1
+Encoding: 65549 -1 34
+Width: 650
+VWidth: 1024
+Flags: W
+HStem: -107 57<309.441 403.277> 233 57<247.505 380.845>
+VStem: 86 63<-103 286> 231 59<-29.4028 62.0699> 433 63<38.7 177.689> 440 66<400.631 450> 547 63<225 336.821>
+LayerCount: 2
+Fore
+Refer: 2 641 N 1 0 0 1 0 0 2
+Substitution2: "low-1" gr_1.low
+Substitution2: "high-1" gr_1.high
+LCarets2: 1 325
+Ligature2: "required-ligature-1" uni0281 uni2081
+EndChar
